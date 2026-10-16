@@ -46,11 +46,7 @@ Then open http://localhost:8000 in your browser.
 
 > The VS Code Live Server extension only serves static files, so it can't run the PHP parts. Use the PHP command above instead.
 
-## Screenshots
 
-[Add 2-3 screenshots here, for example: `![Home page](images/screenshot-home.png)`]
-
-A short demo video is in the `video/` folder.
 
 ## My role
 
