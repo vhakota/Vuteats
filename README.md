@@ -54,7 +54,7 @@ A short demo video is in the `video/` folder.
 
 ## My role
 
-[Describe what you built, for example: the front-end layout, the ordering logic, the login system, or the whole project.]
+the front-end layout, the ordering logic, the login system... the whole project.
 
 ## Limitations and future improvements
 
